@@ -1,5 +1,5 @@
 # Quridor
-a console version of the game Quridorin cpp language - a freelancering work of mine :) 
+a simple console version of the game "Quridor" in cpp language - a freelancering work of mine :) 
 
 it belongs to a year ago
 
